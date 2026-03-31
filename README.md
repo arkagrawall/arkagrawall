@@ -1,75 +1,25 @@
-<!-- Profile README for Ark Agrawal - Matrix Theme -->
+# 💫 About Me:
+Skill maxing on backend systems + GEN AI<br>Interested in collaborating on projects<br>beginner open source contributor<br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00FF41&center=true&vCenter=true&width=440&lines=print('Hello%2C+World!');Welcome+to+my+Github+profile!;B.Tech+CSE+Student+%7C+Python+%7C+Web+Dev" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,2c5364,00ff41&height=200&section=header&text=Ark%20Agrawal&fontSize=48&fontAlignY=40&desc=Exploring%20the%20Matrix%20of%20Code...&descSize=20&fontColor=00FF41&descAlignY=65" alt="header"/>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkagrawall) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithark) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arkagrawal.work@gmail.com) 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="500" alt="Matrix rain animation"/>
-</p>
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arkagrawall&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arkagrawall&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arkagrawall&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <a href="https://linkedin.com/in/arkagrawal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arkagrawal.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arkagrawall&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h2 align="center">👾 About Me</h2>
-
-<div align="center">
-
-🌱 <b>B.Tech in Computer Science & Engineering</b>  
-💡 Building, breaking, and exploring the Matrix of computers  
-🛠️ <b>Skills:</b>
-  <img src="https://img.shields.io/badge/Python-00FF41?style=flat-square&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-2c5364?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-00FFFA?style=flat-square&logo=tailwind-css&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-6e4f7c?style=flat-square&logo=php&logoColor=white"/>
-  
-🏆 Tech event enthusiast  
-🖥️ Hobbies: Exploring computers, decoding new tech!
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arkagrawall&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-<h2 align="center">💻 Projects</h2>
-<div align="center">
-  <b>AKTU Mock Counselling</b><br>
-  <i>Helping students simulate their counselling experience and make informed choices.</i>
-</div>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkagrawall&theme=matrix&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arkagrawall&show_icons=true&theme=matrix&hide_border=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkagrawall&layout=compact&theme=matrix&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-<h2 align="center">☕ Fun Fact</h2>
-
-<p align="center">
-  When I'm not coding, you’ll find me exploring the endless possibilities of computers or hacking the Matrix!
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00FF41&center=true&vCenter=true&width=440&lines=Let's+connect+and+learn+together!" alt="Typing SVG" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=arkagrawall&icon=0&color=0)](https://visitcount.itsvg.in)
