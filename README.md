@@ -1,5 +1,5 @@
 # 💫 About Me:
-Skill maxing on backend systems + GEN AI<br>Interested in collaborating on projects<br>beginner open source contributor<br><br>
+Skill maxing on backend systems + GEN AI<br>Interested in collaborating on projects<br>Beginner, open source contributor<br><br>
 
 
 ## 🌐 Socials:
